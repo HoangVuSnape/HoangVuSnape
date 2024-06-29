@@ -1,4 +1,4 @@
-#  Hi, I’m Hoang Dinh Quy Vu, Snape : <img src="https://i.imgur.com/your-gif-link.gif" alt="Waving Hand" width="50"/>
+#  Hi, I’m Hoang Dinh Quy Vu, Snape <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 I'm currently a third-year student at Ton Duc Thang University, majoring in Computer Science. In addition to my undergraduate studies, I am also enrolled in a 4+1 Master's program at the same university.
