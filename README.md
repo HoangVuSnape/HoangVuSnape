@@ -1,4 +1,5 @@
-# Hi, I’m Hoang Dinh Quy Vu, Snape :
+#👋  Hi, I’m Hoang Dinh Quy Vu, Snape :
+
 I'm currently a third-year student at Ton Duc Thang University, majoring in Computer Science. In addition to my undergraduate studies, I am also enrolled in a 4+1 Master's program at the same university.
 
 My interests are diverse and include coding, playing the guitar, and singing. I find great joy in exploring the intricacies of music and technology. Currently, I'm delving into the fascinating fields of Natural Language Processing (NLP) and Digital Image Processing. These areas captivate me due to their potential to transform how we interact with technology and understand the world around us. 
